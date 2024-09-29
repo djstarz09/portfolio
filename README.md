@@ -1,4 +1,4 @@
-###Portfolio
+# Portfolio
 
 A portfolio is an essential tool for professionals in various fields, particularly in technology, design, art, and creative industries, where showcasing practical experience and skills is key. Unlike a resume, which is often a brief overview of qualifications and job experiences, a portfolio provides a more detailed and tangible representation of your abilities. It allows potential employers, clients, or collaborators to see the actual work you’ve completed, offering insight into your problem-solving approach, creativity, and expertise.
 
