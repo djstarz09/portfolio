@@ -8,4 +8,4 @@ Moreover, a portfolio helps to build credibility and trust. Employers and client
 
 In summary, a portfolio is not just a showcase of work; it’s a powerful tool to communicate your strengths, versatility, and passion for your field, giving others confidence in your abilities before they even meet you.
 
-![zoro](https://github.com/user-attachments/assets/4dd7e473-6f5c-424c-880d-e644904e1833)
+![naruto](https://github.com/user-attachments/assets/fa6bdd77-350b-4c15-b58e-8b8b50dc4d13)
