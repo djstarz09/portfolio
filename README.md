@@ -7,3 +7,4 @@ For those in fields like software development, machine learning, graphic design,
 Moreover, a portfolio helps to build credibility and trust. Employers and clients are more likely to engage with someone who has proven their capabilities through previous work. It's also an opportunity to express your unique style, interests, and specializations, making you stand out in competitive fields. Portfolios can be presented in digital formats, such as personal websites or repositories like GitHub, making them easily accessible and shareable.
 
 In summary, a portfolio is not just a showcase of work; it’s a powerful tool to communicate your strengths, versatility, and passion for your field, giving others confidence in your abilities before they even meet you.
+![zoro](https://github.com/user-attachments/assets/d3fa8003-d807-4362-8c15-3db7aec856a5)
